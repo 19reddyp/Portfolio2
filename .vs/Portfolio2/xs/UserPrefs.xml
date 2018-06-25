@@ -1,4 +1,14 @@
 ﻿<Properties StartupConfiguration="{BFF12EB3-A2C4-4BF8-BC4E-E00492A818FC}|Default">
-  <MonoDevelop.Ide.ItemProperties.Portfolio2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Portfolio2/MyPortfolio/SourceControl.html">
+    <Files>
+      <File FileName="Portfolio2/MyPortfolio/SourceControl.html" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Portfolio2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
