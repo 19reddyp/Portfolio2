@@ -63,3 +63,9 @@ body {
     height: 42%;
     margin: auto;
 }
+.img3 {
+    width: 40%;
+    height: auto;
+    margin-top: 25px;
+    border: solid 3px #37B4EA;
+}
