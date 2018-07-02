@@ -1,16 +1,29 @@
 ﻿<Properties StartupConfiguration="{BFF12EB3-A2C4-4BF8-BC4E-E00492A818FC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Portfolio2/MyPortfolio/SiteStyling.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Portfolio2/MyPortfolio/FinalProject.html">
     <Files>
-      <File FileName="Portfolio2/MyPortfolio/FinalProject.html" Line="44" Column="1" />
+      <File FileName="Portfolio2/MyPortfolio/FinalProject.html" Line="61" Column="27" />
       <File FileName="Portfolio2/MyPortfolio/HTMLandCSS.html" Line="44" Column="1" />
       <File FileName="Portfolio2/MyPortfolio/JavaScript.html" Line="44" Column="1" />
       <File FileName="Portfolio2/MyPortfolio/Reflection.html" Line="60" Column="29" />
-      <File FileName="Portfolio2/MyPortfolio/MVC.html" Line="43" Column="1" />
+      <File FileName="Portfolio2/MyPortfolio/MVC.html" Line="60" Column="27" />
       <File FileName="Portfolio2/MyPortfolio/SafenetProblem.html" Line="46" Column="57" />
       <File FileName="Portfolio2/MyPortfolio/Site.html" Line="52" Column="24" />
       <File FileName="Portfolio2/MyPortfolio/SourceControl.html" Line="44" Column="1" />
-      <File FileName="Portfolio2/MyPortfolio/SiteStyling.css" Line="67" Column="5" />
+      <File FileName="Portfolio2/MyPortfolio/SiteStyling.css" Line="74" Column="18" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Portfolio2" expanded="True">
+            <Node name="Portfolio2" expanded="True">
+              <Node name="MyPortfolio" expanded="True">
+                <Node name="FinalProject.html" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Portfolio2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />

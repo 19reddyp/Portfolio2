@@ -67,5 +67,10 @@ body {
     width: 40%;
     height: auto;
     margin-top: 25px;
+    margin-bottom: 3%;
     border: solid 3px #37B4EA;
+}
+.video1{
+    width: 90%;
+    margin: auto;
 }
